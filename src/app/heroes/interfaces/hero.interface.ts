@@ -5,6 +5,9 @@ export interface Hero {
   alter_ego:        string;
   first_appearance: string;
   characters:       string;
+  alt_img?:         string; // optional
+
+
 }
 
 export enum Publisher {
