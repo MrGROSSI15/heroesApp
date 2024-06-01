@@ -9,9 +9,8 @@ import { Component } from '@angular/core';
 export class NewPageComponent {
 
   public publishers = [
-    { id: 'DC comics', desc: 'dc comics' },
-    { id: 'marvel comics', desc: 'marvel comics' },
-
-  ]
+    { id: 'DC Comics', desc: 'DC - Comics' },
+    { id: 'Marvel Comics', desc: 'Marvel - Comics' },
+  ];
 
 }
